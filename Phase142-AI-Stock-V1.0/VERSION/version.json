@@ -1,0 +1,9 @@
+{
+  "project": "AI Stock Assistant",
+  "version": "Phase142-V1.0",
+  "market": "China A-Share",
+  "status": "Development Package",
+  "tdx_support": true,
+  "system": "Windows10 LTSC",
+  "memory_target": "8GB RAM"
+}
