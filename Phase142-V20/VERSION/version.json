@@ -1,0 +1,8 @@
+{
+  "project": "AI Stock Assistant",
+  "version": "Phase142-V1.0",
+  "market": "China A-Share",
+  "platform": "Windows10 LTSC",
+  "tdx_support": true,
+  "status": "Development Release"
+}
