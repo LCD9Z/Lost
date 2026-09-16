@@ -1,0 +1,8 @@
+{
+  "version": "Phase142-Test-V1",
+  "status": "TEST_BUILD",
+  "purpose": "TDX real-data closed-loop validation",
+  "default_tdx_path": "D:\\new_tdx\\vipdoc",
+  "live_trading": false,
+  "universe": "A-share stocks"
+}
