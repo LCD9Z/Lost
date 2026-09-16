@@ -1,0 +1,6 @@
+tdx_path: D:\new_tdx\vipdoc
+markets:
+  - sh
+  - sz
+  - bj
+output_path: output
